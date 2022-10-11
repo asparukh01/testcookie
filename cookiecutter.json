@@ -1,0 +1,17 @@
+{
+	"project_name": "Project",
+	"gunicorn": "gunicorn.conf",
+	"dockerfile": "Dockerfile",
+	"dockerignore": ".dockerignore",
+	"docker_compose": "docker-compose",
+	"entrypoint": "entrypoint",
+	"gitignore": ".gitignore",
+	"gitlab": ".gitlab-ci",
+	"job": "job",
+	"job_test": "job-test",
+	"readme": "README",
+	"requirements": "requirements",
+	"app": "app",
+	"init": "__init__",
+	"main": "main"
+}
